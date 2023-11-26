@@ -61,38 +61,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
-/*
-package com.example.ass;
-
-        import androidx.appcompat.app.AppCompatActivity;
-        import android.os.Bundle;
-        import android.view.View;
-        import android.widget.Button;
-        import android.widget.EditText;
-
-public class MainActivity extends AppCompatActivity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
-
-            }
-        });
-    }
-
-    public class Convert {
-        private float num;
-
-        public void setNum(int n) {
-            num = n;
-        }
-
-        public float getNum() {
-            return num;
-        }
-    }
-}
-*/
